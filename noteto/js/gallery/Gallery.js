@@ -37,6 +37,12 @@ const templates = [
     contributor: 'simplykyra',
     description: 'A quick overview of the week.',
   },
+  {
+    name: "Interview Notes Remarkable Pro",
+    folder: "interview-notes-remarkable",
+    contributor: "OMK66",
+    description: "Interview notes for remarkable Pro"
+  },
 ];
 
 const Gallery = {
